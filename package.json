@@ -17,6 +17,7 @@
     "@radix-ui/react-slot": "^1.2.0",
     "@tailwindcss/postcss": "^4.1.3",
     "@tanstack/react-router": "^1.115.0",
+    "@tanstack/react-router-devtools": "^1.115.3",
     "@tanstack/react-start": "^1.115.1",
     "@tanstack/start": "npm:@tanstack/react-start@^1.115.1",
     "class-variance-authority": "^0.7.1",
